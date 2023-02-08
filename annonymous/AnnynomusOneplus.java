@@ -14,6 +14,7 @@ public class AnnynomusOneplus {
 			@Override
 			public void method() {
 				System.out.println(" how r u teja ");
+				System.out.println(" how r u  ");
 				
 			}
 		};
