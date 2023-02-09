@@ -9,6 +9,8 @@ public class AnnynomusOneplus {
 			@Override
 			public void process() {
 			System.out.println("hiiiiiiiiii");	
+			System.out.println("helloooooooo");
+			System.out.println("how r u teja");
 			}
 			
 			@Override
